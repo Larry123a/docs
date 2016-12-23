@@ -49,7 +49,7 @@ msgstr ":doc:`/tutorial/backup-sharded-cluster-with-database-dumps`"
 msgid ""
 "Create backups using :program:`mongodump` to back up each component in "
 "the cluster individually."
-msgstr ""
+msgstr "你可以使用mongodump来为集群的每个分片构建备份"
 
 # 7484cdcae1144766811e120e7d28d1cc
 #: ../source/includes/toc/dfn-list-administration-backup-sharded-clusters.rst:15

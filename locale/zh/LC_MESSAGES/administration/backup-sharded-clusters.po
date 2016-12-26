@@ -61,7 +61,7 @@ msgstr ":doc:`/tutorial/schedule-backup-window-for-sharded-clusters`"
 msgid ""
 "Limit the operation of the cluster balancer to provide a window for "
 "regular backup operations."
-msgstr ""
+msgstr "控制均衡器的功能为定期备份提供一个可执行窗口"
 
 # 6c14c0d1f6304f78be0fadc4b0d8553d
 #: ../source/includes/toc/dfn-list-administration-backup-sharded-clusters.rst:18
